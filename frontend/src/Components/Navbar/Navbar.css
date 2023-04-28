@@ -1,0 +1,20 @@
+.navbar{
+   background-image: url('../../img/cake.jpg');
+    width: 100%;
+    height: 150px;
+    padding-top: 50px;
+
+}
+.title{
+    font-family: 'Krona One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 40px;
+    text-decoration-line: underline;
+    
+    color: #140101;
+    
+    mix-blend-mode: color-burn;
+    backdrop-filter: blur(2px);
+}
